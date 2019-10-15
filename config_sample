@@ -1,0 +1,5 @@
+$ unzip shiro-root-1.4.1-source-release.zip
+
+$ cd shiro-root-1.4.1/samples/quickstart
+
+$ mvn compile exec:java
