@@ -27,6 +27,29 @@ Session Management: Managing user-specific sessions, even in non-web or EJB appl
 
 Cryptography: Keeping data secure using cryptographic algorithms while still being easy to use. 
 
+What can you do with Apache Shiro?
+
+Here are some things that you can do with Apache Shiro:
+
+Authenticate a user to verify their identity
+
+Perform access control for a user, such as:
+
+  Determine if a user is assigned a certain security role or not
+  
+  Determine if a user is permitted to do something or not
+  
+  Use a Session API in any environment, even without web or EJB containers.
+  
+  React to events during authentication, access control, or during a session’s lifetime.
+  
+  Aggregate 1 or more data sources of user security data and present this all as a single composite user ‘view’.
+  
+  Enable ‘Remember Me’ services for user association without login
+  …
+  and much more - all integrated into API.
+
+
 ## Pros and Cons:
 
 Pros: flexibility, easy to configure, supports cloud, desktop and mobile platform
