@@ -18,6 +18,7 @@ Cybersecurity is the protection of internet-connected systems, including hardwar
 What is Apache Shiro?
 
 Apache Shiro is a powerful and flexible open-source security framework that cleanly handles authentication, authorization, enterprise session management and cryptography.
+![Features](/ShiroFeatures.png)
 
 Authentication: Sometimes referred to as ‘login’, this is the act of proving a user is who they say they are. 
 
@@ -26,6 +27,8 @@ Authorization: The process of access control, i.e. determining ‘who’ has acc
 Session Management: Managing user-specific sessions, even in non-web or EJB applications. 
 
 Cryptography: Keeping data secure using cryptographic algorithms while still being easy to use. 
+
+![Architechture](/ShiroArchitechture.png)
 
 What can you do with Apache Shiro?
 
