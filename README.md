@@ -17,6 +17,9 @@ Cybersecurity is the protection of internet-connected systems, including hardwar
 
 What is Apache Shiro?
 
+![basic](/ShiroBasicArchitecture.png)
+
+
 Apache Shiro is a powerful and flexible open-source security framework that cleanly handles authentication, authorization, enterprise session management and cryptography.
 ![Features](/ShiroFeatures.png)
 
