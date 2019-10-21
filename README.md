@@ -28,7 +28,7 @@ Session Management: Managing user-specific sessions, even in non-web or EJB appl
 
 Cryptography: Keeping data secure using cryptographic algorithms while still being easy to use. 
 
-![Architechture](/ShiroArchitechture.png)
+![Architecture](/ShiroArchitecture.png)
 
 What can you do with Apache Shiro?
 
