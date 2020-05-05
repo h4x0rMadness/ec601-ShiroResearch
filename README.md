@@ -3,7 +3,7 @@ EC601_MiniProject_2 on Cybersecurity
 
 ## Introduction
 
-What is Cybersecurity?
+### What is Cybersecurity?
 
 Cybersecurity is the protection of internet-connected systems, including hardware, software and data, from cyberattacks. The purpose of cybersecurity is to help prevent cyberattacks, data breaches and identity theft and can aid in risk management. Cybersecurity is challenged by many aspects of threats:
 
