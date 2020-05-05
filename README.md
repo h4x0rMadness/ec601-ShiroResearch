@@ -16,12 +16,15 @@ Cybersecurity is the protection of internet-connected systems, including hardwar
 ·Phishing, a form of fraud where fraudulent emails are sent that resemble emails from reputable sources; however, the intention of these emails is to steal sensitive data, such as credit card or login information.
 
 ### What is Apache Shiro?
-
-![basic](/ShiroBasicArchitecture.png)
-
+<p align="center">
+ <img src="https://github.com/h4x0rMadness/EC601_MiniProject_2/blob/master/ShiroBasicArchitecture.png" width="50%">
+</p>
 
 Apache Shiro is a powerful and flexible open-source security framework that cleanly handles authentication, authorization, enterprise session management and cryptography.
-![Features](/ShiroFeatures.png)
+
+<p align="center">
+ <img src="https://github.com/h4x0rMadness/EC601_MiniProject_2/blob/master/ShiroFeatures.png" width="70%">
+</p>
 
 Authentication: Sometimes referred to as ‘login’, this is the act of proving a user is who they say they are. 
 
@@ -31,8 +34,10 @@ Session Management: Managing user-specific sessions, even in non-web or EJB appl
 
 Cryptography: Keeping data secure using cryptographic algorithms while still being easy to use. 
 
-![Architecture](/ShiroArchitecture.png)
 
+<p align="center">
+ <img src="https://github.com/h4x0rMadness/EC601_MiniProject_2/blob/master/ShiroArchitecture.png" width="70%">
+</p>
 
 
 #### Subject (org.apache.shiro.subject.Subject)
